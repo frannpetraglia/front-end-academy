@@ -1,0 +1,29 @@
+.title
+{
+    border: outset rgb(3, 17, 14);
+    background-color: rgb(53, 218, 170);
+    text-align: center;
+}
+
+.titulos
+{
+    border: rgb(53, 218, 170);
+    background-color: rgb(210, 212, 199);
+}
+
+.sin-puntos
+{
+    list-style: none;
+}
+
+.textos
+{  
+    color:rgb(104, 47, 156);
+    border: solid rgb(3, 17, 14);
+    background-color: rgb(53, 218, 170);   
+}
+
+.botones
+{
+    background-color: rgb(65, 165, 132);
+}
